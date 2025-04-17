@@ -3,7 +3,7 @@ import path from 'path';
 import fs from 'fs';
 
 export default (req: VercelRequest, res: VercelResponse) => {
-  const filePath = path.join(__dirname, '../epg.xml');
+  const filePath = path.join(__dirname, '../epg.xml');  // Asegúrate que epg.xml esté en la raíz
   fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {
       res.status(500).send('Error al leer el archivo EPG');
