@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+    <!-- KQ105 Radio -->
+    <channel id="kq105_radio">
+        <display-name>KQ105 Radio</display-name>
+        <icon src="https://bloximages.chicago2.vip.townnews.com/kq105.com/content/tncms/custom/image/23c304fa-a5bb-11ee-aed9-ab40ab64f7be.png?resize=990%2C284"/>
+    </channel>
+
+    <programme start="20250417000000 +0000" stop="20250417060000 +0000" channel="kq105_radio">
+        <title>Carlos Gabriel</title>
+    </programme>
+    <programme start="20250417060000 +0000" stop="20250417100000 +0000" channel="kq105_radio">
+        <title>Hector Ortiz</title>
+    </programme>
+    <programme start="20250417100000 +0000" stop="20250417150000 +0000" channel="kq105_radio">
+        <title>Alex Diaz</title>
+    </programme>
+    <programme start="20250417150000 +0000" stop="20250417180000 +0000" channel="kq105_radio">
+        <title>La Tendencia de Molusco</title>
+    </programme>
+    <programme start="20250417180000 +0000" stop="20250417190000 +0000" channel="kq105_radio">
+        <title>Pedro Villegas</title>
+    </programme>
+    <programme start="20250417190000 +0000" stop="20250417240000 +0000" channel="kq105_radio">
+        <title>Edwin Negron</title>
+    </programme>
+
+    <!-- KQ-105 TV -->
+    <channel id="kq105_tv">
+        <display-name>KQ-105 TV</display-name>
+        <icon src="https://bloximages.chicago2.vip.townnews.com/kq105.com/content/tncms/custom/image/23c304fa-a5bb-11ee-aed9-ab40ab64f7be.png?resize=990%2C284"/>
+    </channel>
+
+    <programme start="20250417000000 +0000" stop="20250417080000 +0000" channel="kq105_tv">
+        <title>OFF AIR</title>
+    </programme>
+    <programme start="20250417080000 +0000" stop="20250417100000 +0000" channel="kq105_tv">
+        <title>KQ Hits</title>
+    </programme>
+    <programme start="20250417100000 +0000" stop="20250417120000 +0000" channel="kq105_tv">
+        <title>KQ Playlists</title>
+    </programme>
+    <programme start="20250417120000 +0000" stop="20250417150000 +0000" channel="kq105_tv">
+        <title>Programa Pagado</title>
+    </programme>
+    <programme start="20250417150000 +0000" stop="20250417180000 +0000" channel="kq105_tv">
+        <title>La Tendencia de Molusco</title>
+    </programme>
+    <programme start="20250417180000 +0000" stop="20250417240000 +0000" channel="kq105_tv">
+        <title>KQ Videos Musicales Top #1</title>
+    </programme>
+
+    <!-- Netflix Eventos -->
+    <channel id="netflix_eventos">
+        <display-name>Netflix Eventos</display-name>
+        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Netflix_2015_N_logo.svg/1200px-Netflix_2015_N_logo.svg.png"/>
+    </channel>
+
+    <programme start="20250417000000 +0000" stop="20250417020000 +0000" channel="netflix_eventos">
+        <title>OFF AIR</title>
+    </programme>
+    <programme start="20250417020000 +0000" stop="20250417030000 +0000" channel="netflix_eventos">
+        <title>WWE RAW</title>
+    </programme>
+    <programme start="20250417030000 +0000" stop="20250417040000 +0000" channel="netflix_eventos">
+        <title>OFF AIR</title>
+    </programme>
+    <programme start="20250417040000 +0000" stop="20250417050000 +0000" channel="netflix_eventos">
+        <title>WWE NXT</title>
+    </programme>
+    <programme start="20250417050000 +0000" stop="20250417060000 +0000" channel="netflix_eventos">
+        <title>OFF AIR</title>
+    </programme>
+</tv>
