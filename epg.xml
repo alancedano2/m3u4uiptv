@@ -7,32 +7,32 @@
     </channel>
 
     <!-- Programas de KQ105 Radio -->
-    <programme start="20230417T000000Z" stop="20230417T060000Z" channel="KQ105-Radio">
+    <programme start="20250417T000000Z" stop="20250417T060000Z" channel="KQ105-Radio">
         <title>Carlos Gabriel</title>
         <desc>Programa de Carlos Gabriel en KQ105 Radio.</desc>
     </programme>
 
-    <programme start="20230417T060000Z" stop="20230417T100000Z" channel="KQ105-Radio">
+    <programme start="20250417T060000Z" stop="20250417T100000Z" channel="KQ105-Radio">
         <title>Hector Ortiz</title>
         <desc>Programa de Hector Ortiz en KQ105 Radio.</desc>
     </programme>
 
-    <programme start="20230417T100000Z" stop="20230417T150000Z" channel="KQ105-Radio">
+    <programme start="20250417T100000Z" stop="20250417T150000Z" channel="KQ105-Radio">
         <title>Alex Diaz</title>
         <desc>Programa de Alex Diaz en KQ105 Radio.</desc>
     </programme>
 
-    <programme start="20230417T150000Z" stop="20230417T180000Z" channel="KQ105-Radio">
+    <programme start="20250417T150000Z" stop="20250417T180000Z" channel="KQ105-Radio">
         <title>La Tendencia de Molusco</title>
         <desc>Programa de La Tendencia de Molusco en KQ105 Radio.</desc>
     </programme>
 
-    <programme start="20230417T180000Z" stop="20230417T190000Z" channel="KQ105-Radio">
+    <programme start="20250417T180000Z" stop="20250417T190000Z" channel="KQ105-Radio">
         <title>Pedro Villegas</title>
         <desc>Programa de Pedro Villegas en KQ105 Radio.</desc>
     </programme>
 
-    <programme start="20230417T190000Z" stop="20230417T000000Z" channel="KQ105-Radio">
+    <programme start="20250417T190000Z" stop="20250417T000000Z" channel="KQ105-Radio">
         <title>Edwin Negron</title>
         <desc>Programa de Edwin Negron en KQ105 Radio.</desc>
     </programme>
@@ -44,32 +44,32 @@
     </channel>
 
     <!-- Programas de KQ-105 TV -->
-    <programme start="20230417T000000Z" stop="20230417T080000Z" channel="KQ105-TV">
+    <programme start="20250417T000000Z" stop="20250417T080000Z" channel="KQ105-TV">
         <title>OFF AIR</title>
         <desc>Canal fuera del aire.</desc>
     </programme>
 
-    <programme start="20230417T080000Z" stop="20230417T100000Z" channel="KQ105-TV">
+    <programme start="20250417T080000Z" stop="20250417T100000Z" channel="KQ105-TV">
         <title>KQ Hits</title>
         <desc>Programa KQ Hits en KQ-105 TV.</desc>
     </programme>
 
-    <programme start="20230417T100000Z" stop="20230417T120000Z" channel="KQ105-TV">
+    <programme start="20250417T100000Z" stop="20250417T120000Z" channel="KQ105-TV">
         <title>KQ Playlists</title>
         <desc>Programa KQ Playlists en KQ-105 TV.</desc>
     </programme>
 
-    <programme start="20230417T120000Z" stop="20230417T150000Z" channel="KQ105-TV">
+    <programme start="20250417T120000Z" stop="20250417T150000Z" channel="KQ105-TV">
         <title>Programa Pagado</title>
         <desc>Programa Pagado en KQ-105 TV.</desc>
     </programme>
 
-    <programme start="20230417T150000Z" stop="20230417T180000Z" channel="KQ105-TV">
+    <programme start="20250417T150000Z" stop="20250417T180000Z" channel="KQ105-TV">
         <title>La Tendencia de Molusco</title>
         <desc>Programa de La Tendencia de Molusco en KQ-105 TV.</desc>
     </programme>
 
-    <programme start="20230417T180000Z" stop="20230417T240000Z" channel="KQ105-TV">
+    <programme start="20250417T180000Z" stop="20250417T240000Z" channel="KQ105-TV">
         <title>KQ Videos Musicales Top #1</title>
         <desc>Videos musicales en KQ-105 TV.</desc>
     </programme>
@@ -81,17 +81,17 @@
     </channel>
 
     <!-- Programas de Netflix Eventos -->
-    <programme start="20230417T000000Z" stop="20230417T200000Z" channel="Netflix-Eventos">
+    <programme start="20250417T000000Z" stop="20250417T200000Z" channel="Netflix-Eventos">
         <title>OFF AIR</title>
         <desc>Canal fuera del aire.</desc>
     </programme>
 
-    <programme start="20230417T200000Z" stop="20230417T230000Z" channel="Netflix-Eventos">
+    <programme start="20250417T200000Z" stop="20250417T230000Z" channel="Netflix-Eventos">
         <title>WWE RAW</title>
         <desc>Transmisión en vivo de WWE RAW.</desc>
     </programme>
 
-    <programme start="20230417T230000Z" stop="20230418T000000Z" channel="Netflix-Eventos">
+    <programme start="20250417T230000Z" stop="20250418T000000Z" channel="Netflix-Eventos">
         <title>OFF AIR</title>
         <desc>Canal fuera del aire.</desc>
     </programme>
