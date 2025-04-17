@@ -1,6 +1,19 @@
 {
-  "rewrites": [
-    { "source": "/m3u.m3u", "destination": "/api/m3u" },
-    { "source": "/epg.xml", "destination": "/api/epg" }
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/epg",
+      "dest": "/api/epg.ts"
+    },
+    {
+      "src": "/api/m3u",
+      "dest": "/api/m3u.ts"
+    }
   ]
 }
