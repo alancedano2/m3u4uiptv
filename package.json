@@ -1,6 +1,10 @@
 {
   "name": "iptv-project",
   "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "start": "node m3
+    "dev": "vercel dev",
+    "start": "vercel start"
+  },
+  "dependencies": {}
+}
