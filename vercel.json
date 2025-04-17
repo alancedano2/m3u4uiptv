@@ -4,6 +4,10 @@
     {
       "src": "api/epg.ts",
       "use": "@vercel/node"
+    },
+    {
+      "src": "api/m3u.ts",
+      "use": "@vercel/node"
     }
   ],
   "routes": [
@@ -14,6 +18,10 @@
     {
       "src": "/api/epg",
       "dest": "/api/epg.ts"
+    },
+    {
+      "src": "/api/m3u",
+      "dest": "/api/m3u.ts"
     }
   ]
 }
