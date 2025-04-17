@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/m3u.m3u", "destination": "/api/m3u" },
-    { "source": "/epg.xml", "destination": "/api/epg" }
-  ]
-}
