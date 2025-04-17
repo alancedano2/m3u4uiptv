@@ -1,19 +1,19 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "api/*.ts",
-      "use": "@vercel/node"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/api/epg",
-      "dest": "/api/epg.ts"
-    },
-    {
-      "src": "/api/m3u",
-      "dest": "/api/m3u.ts"
-    }
-  ]
+    "version": 2,
+    "builds": [
+        {
+            "src": "api/epg.ts",
+            "use": "@vercel/node"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/epg.xml",
+            "dest": "/epg.xml"
+        },
+        {
+            "src": "/api/epg",
+            "dest": "/api/epg.ts"
+        }
+    ]
 }
